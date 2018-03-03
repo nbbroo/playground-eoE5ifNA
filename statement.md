@@ -1,11 +1,5 @@
-# Welcome!
+# Bonjour,
 
-This Ruby template lets you get started quickly with a simple one-page playground.
+Le binaire avec des 0 et des 1 c'est bien. Mais le binaire avec que des 0, ou presque, c'est encore mieux. A l'origine, c'est un concept inventé par Chuck Norris pour envoyer des messages dits unaires.
 
-```ruby runnable
-puts 'Hello World!'
-```
 
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced Ruby template](https://tech.io/select-repo/606)
